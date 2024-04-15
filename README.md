@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Yogesh Burada and I'm a Software Developer, from Capgemini.</h2>
+<h2 align="center">Hi 👋! My name is Yogesh Burada and I'm a Software Developer.</h2>
 
 ###
 
