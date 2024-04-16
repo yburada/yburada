@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA,LLD - HLD**
 
-- 👯 I’m looking to collaborate on **LinkedIn**
+- 👯 I’m looking to collaborate on **Java Backend Peojects**
 
 - 💬 Ask me about **Java**
 
