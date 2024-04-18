@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yogeshburada111@gmail.com**
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/yogeshwara-rao-burada/">LinkedIN</a></h3>
+<h3 align="left">Connect with me:  <a href="https://www.linkedin.com/in/yogeshwara-rao-burada/">LinkedIN</a></h3>
 <p align="left">
 </p>
 
